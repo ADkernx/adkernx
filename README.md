@@ -12,4 +12,4 @@
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ADkernx/18393bad-d697-4f55-a745-aadf43d26db3.png" /></a>
 
-<figure><embed src="https://wakatime.com/share/@ADkernx/1ea2dfd0-8b8e-414c-9848-d27241731668.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@ADkernx/18393bad-d697-4f55-a745-aadf43d26db3.png"></embed></figure>
