@@ -6,10 +6,4 @@
   <img src="https://wakatime.com/share/@ADkernx/f07de5dc-110e-463d-895a-6342b09a3273.svg" />
 </a>
 
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@ADkernx/af9a1170-83b3-4734-b0ba-83996d3b0cc8.svg" />
-</a>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ADkernx/18393bad-d697-4f55-a745-aadf43d26db3.png" /></a>
-
-<figure><embed src="https://wakatime.com/share/@ADkernx/18393bad-d697-4f55-a745-aadf43d26db3.png"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ADkernx/3262c1fe-38a1-4bf0-be0b-4c0542e1d96b.png" /></a>
