@@ -2,6 +2,6 @@
 
 ### Hi there 👋
 
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@ADkernx/9ac69c36-7a00-44a7-805c-2a27fc2b9644.png" />
-</a>
+<figure>
+  <embed src="https://wakatime.com/share/@ADkernx/224250e2-af40-4359-b42f-462c6918a2b7.svg"></embed>
+ </figure>
