@@ -10,7 +10,7 @@
 
 ### Operating Systems
 
-<img src="https://img.shields.io/badge/Darwin-000000?style=flat&logo=apple&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white"/><img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat&logo=alpinelinux&logoColor=white"/><img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white"/>
+<img src="https://img.shields.io/badge/Darwin-000000?style=flat&logo=apple&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat&logo=alpinelinux&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white"/>
 
 ### Programming Languages
 
