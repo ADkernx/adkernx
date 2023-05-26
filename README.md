@@ -25,9 +25,7 @@
 
 #### **Editors & Plateforms**
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Sublime-FF9800?style=flat&logo=sublimetext&logoColor=white"/><a>  </a>
-
-<img src="https://img.shields.io/badge/DevContainers-333333?style=flat&logo=linuxcontainers&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logo=dataiku&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Sublime-FF9800?style=flat&logo=sublimetext&logoColor=white"/></br><img src="https://img.shields.io/badge/DevContainers-333333?style=flat&logo=linuxcontainers&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logo=dataiku&logoColor=white"/><a>  </a><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
 
 #### **DevTools**
 
